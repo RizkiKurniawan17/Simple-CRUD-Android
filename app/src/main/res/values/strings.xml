@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CRUDSQLite</string>
+    <string-array name="items_option">
+        <item>Change</item>
+        <item>Delete</item>
+        <item>Cancel</item>
+    </string-array>
+</resources>
